@@ -27,4 +27,4 @@ print(df.iloc[0, 1])
 # Filtering & Conditional Selection
 print("\n")
 print(df[df["Age"] > 28])
-print(df[(df["Age"] > 28) & (df["City"] == "LA")])  # tough
+print(df[(df["Age"] > 28) & (df["City"] == "LA")])  # tough multiple condition
