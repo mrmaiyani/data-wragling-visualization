@@ -1,0 +1,16 @@
+Vehicle_ID,Brand,Fuel_Type,Transmission,Price
+V001,Toyota,Petrol,Automatic,25000
+V002,Honda,Diesel,Manual,22000
+V003,Ford,Petrol,Automatic,27000
+V004,Chevrolet,Diesel,Manual,24000
+V005,Nissan,Petrol,Automatic,26000
+V006,Hyundai,Diesel,Automatic,23000
+V007,Kia,Petrol,Manual,21000
+V008,BMW,Petrol,Automatic,45000
+V009,Audi,Diesel,Automatic,47000
+V010,Mercedes,Petrol,Automatic,55000
+V011,Tesla,Electric,Automatic,70000
+V012,Volkswagen,Diesel,Manual,28000
+V013,Subaru,Petrol,Manual,25000
+V014,Mazda,Petrol,Automatic,26000
+V015,Jeep,Diesel,Manual,30000

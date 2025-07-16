@@ -1,0 +1,16 @@
+ProductID,Name,Category,Price,Stock
+P001,Wireless Mouse,Electronics,25.99,150
+P002,LED Monitor 24",Electronics,129.99,80
+P003,USB-C Charging Cable,Electronics,8.49,300
+P004,Desk Chair,Office Supplies,89.99,40
+P005,Notebook A5,Office Supplies,2.99,500
+P006,Coffee Maker,Home Appliances,49.99,70
+P007,Electric Kettle,Home Appliances,29.99,60
+P008,Running Shoes,Footwear,59.99,120
+P009,Cotton T-Shirt,Apparel,12.99,200
+P010,Blender,Home Appliances,39.99,55
+P011,Gaming Keyboard,Electronics,59.95,100
+P012,Desk Lamp,Office Supplies,19.99,75
+P013,Water Bottle 1L,Sports,14.50,180
+P014,Backpack 25L,Bags,39.00,90
+P015,Wireless Earbuds,Electronics,79.99,110
